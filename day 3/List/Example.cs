@@ -14,7 +14,6 @@ namespace HelloWorld.List
             // Count()
 
 
-
         static void Main(string[] args)
         {
             var numbers = new List<int>() { 1, 2, 3, 4 };  // created List 
